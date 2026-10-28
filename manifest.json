@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "project": "AAPL Live Quote",
+  "buildId": "e9e9736514785349",
+  "sourceSha256": "e9e973651478534985bdfc4ae6296ebbf6cb54e5024eb5260f6aa6d26691a923",
+  "sourceBytes": 39455,
+  "bootstrapBytes": 5229,
+  "liveBootstrap": {
+    "file": "bootstrap.js",
+    "bytes": 5661,
+    "sha256": "4fdb343855b3cb51aa0eff317b7533d6615fe69208819cbfc0ffca3581fafdb8"
+  },
+  "chunkCount": 1,
+  "chunks": [
+    {
+      "file": "chunks/e9e9736514785349/chunk-0.js",
+      "bytes": 40735,
+      "sha256": "d74f1021e5cfe01d52259c64353923d0226b22ed8421358c8ea9fb1f8e2e3555"
+    }
+  ]
+}
